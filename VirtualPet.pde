@@ -5,7 +5,6 @@ void draw() {
   background(2, 168, 245);
   fill(2, 245, 107);
   rect(0,299,400,112);
-  System.out.println(mouseX + ", " + mouseY);
   fill(245, 2, 2);
   ellipse(270, 237, 34, 62);
   ellipse(280, 246, 25, 55);
